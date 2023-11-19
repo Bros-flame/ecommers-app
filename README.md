@@ -11,6 +11,9 @@ GIFTTREATe is a user-friendly platform for online shopping. Browse through vario
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- 
+![ecommers-app](./assets/product1.png "Your E-Commerce App Preview")
+
 
 ## Installation
 
