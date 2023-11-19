@@ -18,10 +18,10 @@ Get started with GIFTTREAT by following these simple installation steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Bros-flame/ecommers-app.git
 
 # Navigate to the project directory
-cd your-repo
+cd ecommers-app
 
 # Install dependencies
 npm install
